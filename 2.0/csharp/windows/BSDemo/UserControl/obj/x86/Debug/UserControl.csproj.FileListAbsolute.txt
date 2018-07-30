@@ -1,0 +1,6 @@
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\UserControl\bin\Debug\UserControl.exe
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\UserControl\bin\Debug\UserControl.pdb
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\UserControl\bin\Debug\System.Data.SQLite.dll
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\UserControl\obj\x86\Debug\UserControl.csprojResolveAssemblyReference.cache
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\UserControl\obj\x86\Debug\UserControl.exe
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\UserControl\obj\x86\Debug\UserControl.pdb

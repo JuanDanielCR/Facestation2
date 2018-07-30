@@ -1,0 +1,7 @@
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\ServerMatchingControl\bin\Debug\BSDemo.exe
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\ServerMatchingControl\bin\Debug\BSDemo.pdb
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\ServerMatchingControl\bin\Debug\Suprema.UFMatcher.dll
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\ServerMatchingControl\bin\Debug\System.Data.SQLite.dll
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\ServerMatchingControl\obj\x86\Debug\ServerMatchingControl.csprojResolveAssemblyReference.cache
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\ServerMatchingControl\obj\x86\Debug\BSDemo.exe
+X:\고승찬\00_BioStar 2 Device SDK\SDK-2.3.0_20160810\Example\cli\csharp\windows\BSDemo\ServerMatchingControl\obj\x86\Debug\BSDemo.pdb

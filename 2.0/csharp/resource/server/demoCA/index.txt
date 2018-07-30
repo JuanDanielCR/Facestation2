@@ -1,0 +1,1 @@
+V	170622105158Z		00	unknown	/C=KR/ST=Seoul/O=Suprema/OU=BTS/CN=Suprema's Server CA/emailAddress=master@suprema.co.kr
